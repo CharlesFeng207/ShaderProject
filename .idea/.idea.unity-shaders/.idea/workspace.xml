@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f6bf240-4ddc-4af4-8ea1-2b76107e1d0a" name="Default Changelist" comment="" />
@@ -13,7 +13,19 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Shadow/GraphicsInit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ExtendStandard-master/Assets/Shaders/TT_UnityCG.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ExtendStandard-master/Assets/Shaders/TT_Character_Skin.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Temp/Compiled-Custom-SSS.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SSS/SSS.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ConvolutionDiffuse/DiffuseConvolution.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ExtendStandard-master/Assets/Shaders/TT_UnityStandardCoreForward.cginc" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SSS/SSS.shader" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1V7DSWq8WayFjDShvamtFybMImh" />
   <component name="PropertiesComponent">
@@ -60,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576595242255</updated>
-      <workItem from="1576595248237" duration="316000" />
+      <workItem from="1576595248237" duration="1379000" />
+      <workItem from="1576681192251" duration="3781000" />
     </task>
     <servers />
   </component>
@@ -74,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
